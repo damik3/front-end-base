@@ -10,6 +10,7 @@
 ### Pre commit hooks
  - Every time you make a commit, eslint and prettier will run a check. If there are errors they will not allow the commit to happen. 
  - So you should manually run `npm run format` before each commit.
+ - You can view and config these hooks in the `.husky/pre-commit` file.
 
 ### Rules and config
  - Their rules can be configured in `.eslintrc.json` and `.prettierrc.json`.

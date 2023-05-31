@@ -14,6 +14,12 @@
 
 ### Rules and config
  - Their rules can be configured in `.eslintrc.json` and `.prettierrc.json`.
- - Eslint rules: https://eslint.org/docs/latest/rules/
- - Prettier rules: https://prettier.io/docs/en/options.html
+ - Eslint rules: [https://eslint.org/docs/latest/rules/](https://eslint.org/docs/latest/rules/)
+ - Prettier rules: [https://prettier.io/docs/en/options.html](https://prettier.io/docs/en/options.html)
  - You can also configure which files each one should ignore in `.eslintignore ` and `.prettierignore`.
+
+### Sources
+ - [https://github.com/eslint/eslint](https://github.com/eslint/eslint)
+ - [https://github.com/prettier/prettier](https://github.com/prettier/prettier)
+ - [https://github.com/typicode/husky](https://github.com/typicode/husky)
+ - [https://github.com/prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
